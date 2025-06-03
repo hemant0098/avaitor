@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/aviator-game/static/css/main.e2a985fa.css",
-    "main.js": "/aviator-game/static/js/main.5c8dc411.js",
-    "index.html": "/aviator-game/index.html",
-    "main.e2a985fa.css.map": "/aviator-game/static/css/main.e2a985fa.css.map",
-    "main.5c8dc411.js.map": "/aviator-game/static/js/main.5c8dc411.js.map"
+    "main.css": "/aviator/static/css/main.e2a985fa.css",
+    "main.js": "/aviator/static/js/main.5c8dc411.js",
+    "index.html": "/aviator/index.html",
+    "main.e2a985fa.css.map": "/aviator/static/css/main.e2a985fa.css.map",
+    "main.5c8dc411.js.map": "/aviator/static/js/main.5c8dc411.js.map"
   },
   "entrypoints": [
     "static/css/main.e2a985fa.css",
